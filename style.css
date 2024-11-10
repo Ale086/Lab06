@@ -1,0 +1,26 @@
+* {
+    font-family:Arial, Helvetica, sans-serif
+
+}
+body{
+    background-color: black;
+}
+h1{
+    background-color:beige;
+    font-size: 50px;
+    font-style: italic;
+}
+p{
+    font-size: 20px;
+    color: rgb(87, 118, 175);
+}
+.latina{
+    color:aquamarine;
+    font-size: 14px;
+}
+#p1{
+    color: lightpink;
+}
+.chineza{
+    background-color: gold;
+}
